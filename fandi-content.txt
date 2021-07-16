@@ -1,4 +1,6 @@
 RENCANA KONTEN
 
 - Mambuat website
+  mengerjakan html css dan js
 - Mengerjakan tugas
+  tugas PW1
